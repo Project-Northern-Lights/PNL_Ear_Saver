@@ -1,5 +1,5 @@
 # Project Northern Lights' Ear Savers
-=====================================
+====================================
 #### A simple, 3d-printable ear saver design with branding for projectnorthernlights.ca 
 
 #### Settings:
